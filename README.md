@@ -1,6 +1,6 @@
 # Telco Customer Churn Analysis
 
-Link-> [here](https://app.powerbi.com/view?r=eyJrIjoiYzllYTllNWEtZDc4Ny00OTc3LTg3ODAtZjFhZjMxZDlkOTliIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)
+Dashboard-> [here](https://app.powerbi.com/view?r=eyJrIjoiYzllYTllNWEtZDc4Ny00OTc3LTg3ODAtZjFhZjMxZDlkOTliIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)
 
 This project provides an in-depth analysis of customer churn in the telecommunications industry. The analysis, conducted using Power BI, focuses on understanding the demographics and account information of high-risk customers to identify factors contributing to churn. This project is intended to help businesses make data-driven decisions to improve customer retention.
 
